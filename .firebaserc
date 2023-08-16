@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pi-crud-76b3f": {
+      "hosting": {
+        "pi-crud": [
+          "pi-crud-76b3f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pi-crud-76b3f"
+  }
+}
